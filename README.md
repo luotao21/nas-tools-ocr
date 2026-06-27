@@ -13,5 +13,5 @@
   - 通过 docker 部署
 
     ```
-    docker run -p 9300:9300 -d luotao21/nas-tools-ocr:latest
+    docker run -p 9300:9300 -d ghcr.io/luotao21/nas-tools-ocr:latest
     ```
